@@ -1,3 +1,9 @@
-## 算法
-* SortedArray
-* combinedArray
+## install
+```
+pnpm install 
+```
+
+## test
+```
+pnpm test
+```
